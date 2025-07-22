@@ -9,4 +9,10 @@ Lesson for Hexlet about Git
     - revert
     - restore
     - merge
-    
+
+- gitflow
+    - main
+    - develop
+    - hotfix
+    - feature
+    - release
