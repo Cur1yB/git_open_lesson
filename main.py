@@ -1,1 +1,5 @@
-print('Hello from Hexlet!')
+def main():
+    print('Hello from Hexlet!')
+
+if __name__ == '__main__':
+    main()
