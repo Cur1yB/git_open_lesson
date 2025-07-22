@@ -1,7 +1,6 @@
 def main():
-    s = 55
-    print('Nice to meet you again!')
-    print(f'{s=}')
+    print("Hello from Hexlet!")
+    print("Hello from Daniil!!!!")
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
